@@ -1,0 +1,86 @@
+commit 16ff8e4e29bbe20a57bd4b472c99eabea67eb703
+Author: Jarrion Harris <jharri88@calstatela.edu>
+Date:   Thu Sep 17 22:30:34 2026 -0700
+
+    Update README.md
+
+commit ef14f529c292e57f15196493207e2a0065c75117
+Author: Jarrion Harris <jharri88@calstatela.edu>
+Date:   Thu Sep 17 22:25:16 2026 -0700
+
+    Create README.md
+
+commit 58cbe71c2245c92e83a9524fe16bcc15eed6ff51
+Author: Jarrion Harris <jharri88@calstatela.edu>
+Date:   Thu Sep 17 22:24:01 2026 -0700
+
+    Update index.html
+
+commit f0208388f48195ddf6248828bca2c56a6fbb4285
+Author: Henry <144284826+Henry4217@users.noreply.github.com>
+Date:   Thu Sep 17 18:37:22 2026 -0700
+
+    Update index.html by adding info to groupmate section
+
+commit 1c403e3a43a8da1f9a7c5db72ed12aa388200bc7
+Merge: f37cdce 5618590
+Author: Jarrion Harris <jharri88@calstatela.edu>
+Date:   Fri Sep 11 11:10:10 2026 -0700
+
+    Merge pull request #1 from soFAARsoGOOD/feature-about-me
+    
+    Feature about me
+
+commit 56185904d08b2987e1f7e096f5de183be02b9a19
+Merge: 6310b2b f37cdce
+Author: Jarrion Harris <jarrion_harris@yahoo.com>
+Date:   Fri Sep 11 11:09:44 2026 -0700
+
+    Merge branch 'main' into feature-about-me
+
+commit 6310b2b37f6ff61042a7f0198f546680e78479f6
+Author: Jarrion Harris <jharri88@calstatela.edu>
+Date:   Fri Sep 11 11:02:36 2026 -0700
+
+    Personalize index.html
+    
+    Updated info with info about myself
+
+commit 36c86bac45225f2b53c6591729ec566171f0536d
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 22:24:59 2025 -0800
+
+    Setup index for groupmate
+
+commit f37cdce66bf3ee5c7835db43eb69434768c73a72
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 22:05:30 2025 -0800
+
+    Replicate assignment-1 index
+
+commit 2221a861bb75db029ce6f7e543f814dcb97ff69c
+Merge: 7790057 bad1d21
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Feb 5 22:03:43 2025 -0800
+
+    Merge pull request #1 from JValenzuela1/feature-about-me
+    
+    Feature about me
+
+commit bad1d210982c13dbedbb9b72b3fd92018d5d575d
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:42:13 2025 -0800
+
+     Please enter the commit message for your changes. Lines starting
+
+commit 740ccd1c7908abf4acc3e9edc878b083730fc3ea
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:36:03 2025 -0800
+
+    Adding an index template for students
+
+commit 779005737de5c4a1d440e0674921a65a60db04ac
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:15:47 2025 -0800
+
+    first commit
